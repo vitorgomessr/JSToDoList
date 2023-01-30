@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "title": "primeira tarefa",
+      "completed": false,
+      "createdAt": "",
+      "updatedAt": 1673550574939,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "bibiubou",
+      "completed": true,
+      "createdAt": 1673550577543,
+      "updatedAt": 1673550580067,
+      "id": 2,
+      "userId": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "vitor@ufu.br"
+    },
+    {
+      "id": 2,
+      "email": "claudio@ufu.br"
+    },
+    {
+      "id": 3,
+      "email": "mariana@ufu.br"
+    }
+  ]
+}
